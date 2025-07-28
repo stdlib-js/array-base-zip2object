@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-26)
+## Unreleased (2025-07-28)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7f0568c`](https://github.com/stdlib-js/stdlib/commit/7f0568c02fad49db0292ed2c15eed93e281b3d3f) - **bench:** fix descriptions _(by Athan Reines)_
 -   [`455c0d4`](https://github.com/stdlib-js/stdlib/commit/455c0d44ca137051ceb8a331ef66890ee74bd45c) - **feat:** add `array/base/zip2object` _(by Athan Reines)_
 
 </details>

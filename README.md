@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import zip2object from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zip2object@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-zip2object/tags). For example,
+
+```javascript
 import zip2object from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zip2object@v0.1.0-esm/index.mjs';
 ```
 
@@ -88,7 +93,7 @@ The function supports the following parameters:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
-import zip2object from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zip2object@v0.1.0-esm/index.mjs';
+import zip2object from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zip2object@esm/index.mjs';
 
 var x1 = zeroTo( 10 );
 var x2 = discreteUniform( x1.length, -100, 100 );
